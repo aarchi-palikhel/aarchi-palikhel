@@ -1,4 +1,4 @@
-<img width="1440" height="1692" alt="image" src="https://github.com/user-attachments/assets/40b5e440-6390-4c2d-b325-36981e662e00" /><h1 align="center">Hi there, I'm Aarchi Palikhel 👋</h1>
+<h1 align="center">Hi there, I'm Aarchi Palikhel 👋</h1>
 
 <p align="center">
   <em>Information Management Student · Based in Bhaktapur, Nepal 🇳🇵</em>
@@ -15,7 +15,7 @@
 
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 
 I'm an **Information Management student** passionate about building practical, user-friendly web applications. From full-stack systems to AI-integrated tools, I enjoy turning real-world problems into clean digital solutions — especially for local businesses in Nepal.
 
@@ -26,7 +26,7 @@ I'm an **Information Management student** passionate about building practical, u
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages & Frameworks**
 
