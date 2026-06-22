@@ -72,8 +72,8 @@ A cute, girly note-taking app with **AI integration**, built with Django and Tai
 
 ---
 
-### 📊 [EDA on Multiple Datasets](https://github.com/aarchi-palikhel/EDA-on-multiple-datasets)
-Exploratory data analysis notebooks across multiple datasets, uncovering patterns and insights through data visualization.
+### [EDA on Multiple Datasets](https://github.com/aarchi-palikhel/EDA-on-multiple-datasets)
+Exploratory data analysis notebooks across multiple datasets, uncovering patterns and insights through data visualization. 📊 
 `Python` `Jupyter Notebook` `Data Analysis`
 
 ---
