@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Aarchi Palikhel 👋</h1>
+<img width="1440" height="1692" alt="image" src="https://github.com/user-attachments/assets/40b5e440-6390-4c2d-b325-36981e662e00" /><h1 align="center">Hi there, I'm Aarchi Palikhel 👋</h1>
 
 <p align="center">
   <em>Information Management Student · Based in Bhaktapur, Nepal 🇳🇵</em>
@@ -46,28 +46,28 @@ I'm an **Information Management student** passionate about building practical, u
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🌤️ [WeatherApp-React](https://github.com/aarchi-palikhel/WeatherApp-React)
-A modern, responsive weather application built with **React + Vite** featuring real-time weather data, 5-day forecasts with hourly breakdowns, UV index, and air quality information.
+### [WeatherApp-React](https://github.com/aarchi-palikhel/WeatherApp-React)
+A modern, responsive weather application built with **React + Vite** featuring real-time weather data, 5-day forecasts with hourly breakdowns, UV index, and air quality information. 🌤️ 
 `JavaScript` `React` `Vite` `Weather API`
 
 ---
 
-### 🎂 [Online Order Management System for Bakeries](https://github.com/aarchi-palikhel/Online-Order-Management-System-for-Bakeries)
-A full-stack web app (OOMS) that digitizes bakery operations for local businesses in Nepal, with real-time order tracking, **eSewa payment integration**, and sales analytics.
+### [Online Order Management System for Bakeries](https://github.com/aarchi-palikhel/Online-Order-Management-System-for-Bakeries)
+A full-stack web app (OOMS) that digitizes bakery operations for local businesses in Nepal, with real-time order tracking, **eSewa payment integration**, and sales analytics. 🎂 
 `Python` `Django` `eSewa` `Full-Stack`
 
 ---
 
-### ✨ [Sparklenotes](https://github.com/aarchi-palikhel/sparklenotes)
-A cute, girly note-taking app with **AI integration**, built with Django and Tailwind CSS.
+### [Sparklenotes](https://github.com/aarchi-palikhel/sparklenotes)
+A cute, girly note-taking app with **AI integration**, built with Django and Tailwind CSS. ✨ 
 `Python` `Django` `Tailwind CSS` `AI`
 
 ---
 
-### 💄 [Cosmetics E-Commerce System](https://github.com/aarchi-palikhel/cosmetics-ecommerce-system)
-*Glamour* — a Django-based cosmetics e-commerce platform with user authentication, a searchable product catalog, shopping cart, product reviews with ratings, and **eSewa payment** integration.
+### [Cosmetics E-Commerce System](https://github.com/aarchi-palikhel/cosmetics-ecommerce-system)
+*Glamour* - a Django-based cosmetics e-commerce platform with user authentication, a searchable product catalog, shopping cart, product reviews with ratings, and **eSewa payment** integration. 💄 
 `Python` `Django` `HTML` `E-Commerce`
 
 ---
@@ -88,5 +88,5 @@ Exploratory data analysis notebooks across multiple datasets, uncovering pattern
 ---
 
 <p align="center">
-  <i>⭐ Feel free to explore my repositories and leave a star if something catches your eye!</i>
+  <i>Feel free to explore my repositories and leave a star if something catches your eye!</i>
 </p>
