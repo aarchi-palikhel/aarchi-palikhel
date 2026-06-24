@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aarchi Palikhel 👋</h1>
 
 <p align="center">
-  <em>Information Management Student | Full-Stack Developer | SEO & Digital Marketing Enthusiast</em>
+  <em>✨ Information Management Student | Full-Stack Developer | SEO & Digital Marketing Enthusiast ✨</em>
 </p>
 
 <p align="center">
@@ -16,7 +16,6 @@
 ## About Me
 
 I'm an **Information Management student** interested in building practical digital solutions through technology, data, and online growth strategies.
-
 My interests include **full-stack development, data analysis, SEO, content optimization, and digital marketing**. I enjoy creating user-focused applications while understanding how websites and content reach the right audience.
 
 - Currently improving my full-stack development skills
@@ -54,20 +53,16 @@ My interests include **full-stack development, data analysis, SEO, content optim
 
 ## Projects
 
-### Online Order Management System for Bakeries
-Full-stack web application to help bakeries manage online orders, operations, analytics, and digital payments.
+## Projects
 
-**Tech:** Python, Django, Database, eSewa Integration
-
-### WeatherApp-React
-Responsive weather application with real-time weather data, forecasts, and API integration.
-
-**Tech:** React, JavaScript, Vite, Weather API
-
-### EDA on Multiple Datasets
-Data analysis projects focused on exploring datasets, identifying patterns, and creating visual insights.
-
-**Tech:** Python, Pandas, Jupyter Notebook
+| Project | Tech Stack |
+|----------|------------|
+| [Online Order Management System for Bakeries](https://github.com/aarchi-palikhel/Online-Order-Management-System-for-Bakeries) | Python, Django, PostgreSQL, eSewa API Integrations (Test Version) |
+| [WeatherApp-React](https://github.com/aarchi-palikhel/WeatherApp-React) | React, JavaScript, Vite, API |
+| [SparkleNotes](https://github.com/aarchi-palikhel/sparklenotes) | Python, Django, PostgreSQL, Gemini API Integrations |
+| [Cosmetics Ecommerce System](https://github.com/aarchi-palikhel/cosmetics-ecommerce-system) | Python, Django, Microsoft SQL Server, eSewa API Integrations (Test Version) |
+| [EDA on Multiple Datasets](https://github.com/aarchi-palikhel/EDA-on-multiple-datasets) | Python, Pandas, Jupyter Notebook |
+| [BIS Data Analytics Labs](https://github.com/aarchi-palikhel/bis-data-analytics-labs) | Python, Data Analysis, Visualization |
 
 ---
 
