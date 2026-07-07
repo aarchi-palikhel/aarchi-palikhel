@@ -1,93 +1,119 @@
 <h1 align="center">Hi, I'm Aarchi Palikhel 👋</h1>
 
 <p align="center">
-  <em>✨ Information Management Student | Full-Stack Developer | SEO & Digital Marketing Enthusiast ✨</em>
+  <em>Information Management Student • Full-Stack Developer • Tech Enthusiast</em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aarchi-palikhel">
-    <img src="https://img.shields.io/badge/LinkedIn-aarchi--palikhel-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Aarchi%20Palikhel-C8A2C8?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Bhaktapur,%20Nepal-red?style=flat-square" />
+  <a href="mailto:palikhelaarchi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&pause=1000&color=E8A0BF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer.;Building+real-world+applications.;Always+learning+something+new." />
 </p>
 
 ---
 
-## About Me
+## 🌸 About Me
 
-I'm an **Information Management student** interested in building practical digital solutions through technology, data, and online growth strategies.
-My interests include **full-stack development, data analysis, SEO, content optimization, and digital marketing**. I enjoy creating user-focused applications while understanding how websites and content reach the right audience.
+I'm an **Information Management student** passionate about building practical software solutions through **full-stack development**. I enjoy exploring **AI, data analysis, and modern web technologies** while continuously improving my technical skills. Alongside development, I also have experience with **SEO** and **digital marketing**.
 
-- Currently improving my full-stack development skills
-- Exploring SEO, content strategy, and digital marketing practices
-- Interested in AI integration and data-driven solutions
-- Based in **Bhaktapur, Nepal**
+- **Currently Building:** Full-stack web applications and personal projects.
+- **Currently Learning:** React, Django, AI integration, and software architecture.
+- **Open to:** Collaboration on web development and open-source projects.
+- **Ask Me About:** Python, Django, React, Git, data analysis, SEO, and digital marketing.
 
----
-
-## Tech Stack
-
-### Development
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat-square&logo=jupyter&logoColor=white)
-
-### SEO & Digital Marketing
-
-![SEO](https://img.shields.io/badge/SEO-Optimization-success?style=flat-square)
-![Content Writing](https://img.shields.io/badge/Content-Writing-orange?style=flat-square)
-![Digital Marketing](https://img.shields.io/badge/Digital-Marketing-blueviolet?style=flat-square)
+> *Learning, building, and growing one project at a time.*
 
 ---
 
-## Projects
+## 💻 Tech Stack
 
-## Projects
+### Languages
 
-| Project | Tech Stack |
-|----------|------------|
-| [Online Order Management System for Bakeries](https://github.com/aarchi-palikhel/Online-Order-Management-System-for-Bakeries) | Python, Django, PostgreSQL, eSewa API Integrations (Test Version) |
-| [WeatherApp-React](https://github.com/aarchi-palikhel/WeatherApp-React) | React, JavaScript, Vite, API |
-| [SparkleNotes](https://github.com/aarchi-palikhel/sparklenotes) | Python, Django, PostgreSQL, Gemini API Integrations |
-| [Cosmetics Ecommerce System](https://github.com/aarchi-palikhel/cosmetics-ecommerce-system) | Python, Django, Microsoft SQL Server, eSewa API Integrations (Test Version) |
-| [EDA on Multiple Datasets](https://github.com/aarchi-palikhel/EDA-on-multiple-datasets) | Python, Pandas, Jupyter Notebook |
-| [BIS Data Analytics Labs](https://github.com/aarchi-palikhel/bis-data-analytics-labs) | Python, Data Analysis, Visualization |
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,php,c,html,css" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,react,vite,tailwind" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+### Data Science & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
 
 ---
 
-## SEO & Content Experience
+## 📂 Featured Projects
 
-Currently exploring SEO fundamentals including:
-
-- Keyword research and search intent
-- Content optimization
-- On-page SEO practices
-- Digital content strategy
-
-I am interested in understanding how technical improvements and quality content work together to improve online visibility.
+| Project | Description |
+|----------|-------------|
+| **Online Order Management System for Bakeries** | Django-based bakery ordering system with PostgreSQL and eSewa integration. |
+| **SparkleNotes** | AI-powered note-taking application using Django and Gemini API. |
+| **WeatherApp React** | Weather application built with React, Vite, and external APIs. |
+| **Cosmetics Ecommerce System** | E-commerce platform using Django, SQL Server, and eSewa integration. |
+| **EDA on Multiple Datasets** | Exploratory data analysis projects using Python and Pandas. |
+| **BIS Data Analytics Labs** | Data analysis and visualization exercises. |
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aarchi-palikhel&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarchi-palikhel&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=aarchi-palikhel&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aarchi-palikhel&theme=tokyonight&hide_border=true&layout=compact" height="170"/>
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+- AI-powered web applications
+- Data analytics and visualization
+- Software architecture
+- Open-source contributions
+- Modern web development practices
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aarchi-palikhel">
+    <img src="https://img.shields.io/badge/LinkedIn-C8A2C8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:palikhelaarchi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Learning, building, and improving with every project.</i>
+  <img src="https://komarev.com/ghpvc/?username=aarchi-palikhel&label=Profile%20Views&color=E8A0BF&style=flat-square" />
+</p>
+
+<p align="center">
+  <i>"Stay curious, keep building, and never stop learning."</i>
 </p>
