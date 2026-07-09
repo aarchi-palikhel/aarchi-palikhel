@@ -28,8 +28,6 @@ I'm an **Information Management student** passionate about building practical so
 - **Open to:** Collaboration on web development and open-source projects.
 - **Ask Me About:** Python, Django, React, Git, data analysis, SEO, and digital marketing.
 
-> *Learning, building, and growing one project at a time.*
-
 ---
 
 ## 💻 Tech Stack
@@ -87,7 +85,7 @@ I'm an **Information Management student** passionate about building practical so
 
 ---
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 - AI-powered web applications
 - Data analytics and visualization
@@ -97,7 +95,7 @@ I'm an **Information Management student** passionate about building practical so
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aarchi-palikhel">
