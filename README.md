@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=180&section=header&text=Aarchi%20Palikhel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Information%20Management%20Student%20•%20Full-Stack%20Developer&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=180&section=header&text=Aarchi%20Palikhel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Information%20Management%20Student%20•%20Full-Stack%20Developer%20•%20Tech%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
 <a href="https://www.linkedin.com/in/aarchi-palikhel">
   <img src="https://img.shields.io/badge/LinkedIn-Aarchi%20Palikhel-C8A2C8?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
