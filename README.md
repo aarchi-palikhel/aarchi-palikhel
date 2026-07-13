@@ -11,7 +11,7 @@
 </a>
 
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Real-World+Applications;Python+%7C+Django+%7C+React;Learning+Something+New+Every+Day"/>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Full-Stack+Developer+%E2%9C%A8;%E2%9C%A8+Building+Real-World+Applications+%E2%9C%A8;%E2%9C%A8+Python+%7C+Django+%7C+React+%E2%9C%A8;%E2%9C%A8+Learning+Something+New+Every+Day+%E2%9C%A8"/>
 
 </div>
 
@@ -163,7 +163,6 @@ Business Intelligence and visualization using **Python** and **Power BI**.
 <div align="center">
 
 <img width="500" src="https://streak-stats.demolab.com?user=aarchi-palikhel&theme=radical&hide_border=true&background=0D1117&ring=FF4FA3&fire=C77DFF&currStreakLabel=FF4FA3"/>
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarchi-palikhel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4FA3&text_color=C77DFF"/>
 
 </div>
 
