@@ -1,16 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=180&section=header&text=Aarchi%20Palikhel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Information%20Management%20Student%20•%20Full-Stack%20Developer%20•%20Tech%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=speech&color=0:FF4FA3,50:C77DFF,100:9D4EDD&height=180&section=header&text=Aarchi%20Palikhel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Information%20Management%20Student%20•%20Full-Stack%20Developer%20•%20Tech%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
+
 <a href="https://www.linkedin.com/in/aarchi-palikhel">
-  <img src="https://img.shields.io/badge/LinkedIn-Aarchi%20Palikhel-C8A2C8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Aarchi%20Palikhel-FF4FA3?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:palikhelaarchi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-palikhelaarchi@gmail.com-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-palikhelaarchi@gmail.com-C77DFF?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=1000&color=E8A0BF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Real-World+Applications;Python+%7C+Django+%7C+React;Learning+Something+New+Every+Day"/>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Real-World+Applications;Python+%7C+Django+%7C+React;Learning+Something+New+Every+Day"/>
 
 </div>
 
@@ -51,7 +52,7 @@ class Aarchi:
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-9D4EDD?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ### Tools
@@ -63,10 +64,10 @@ class Aarchi:
 ### Data Science
 
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-FF4FA3?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-C77DFF?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-9D4EDD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-FF4FA3?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
 ---
@@ -83,8 +84,8 @@ class Aarchi:
 
 Django-based bakery ordering platform with PostgreSQL and **eSewa payment integration**.
 
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-9D4EDD?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-C77DFF?style=flat-square&logo=postgresql&logoColor=white"/>
 
 </td>
 
@@ -94,8 +95,8 @@ Django-based bakery ordering platform with PostgreSQL and **eSewa payment integr
 
 AI-powered note-taking application built with **Django** and the **Gemini API**.
 
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-9D4EDD?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_API-FF4FA3?style=flat-square&logo=google&logoColor=white"/>
 
 </td>
 
@@ -109,8 +110,8 @@ AI-powered note-taking application built with **Django** and the **Gemini API**.
 
 Responsive weather application using **React**, **Vite**, and Weather API.
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-C77DFF?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-FF4FA3?style=flat-square&logo=vite&logoColor=white"/>
 
 </td>
 
@@ -120,8 +121,8 @@ Responsive weather application using **React**, **Vite**, and Weather API.
 
 Full e-commerce platform with **SQL Server** and **eSewa** integration.
 
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-9D4EDD?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-C77DFF?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 
 </td>
 
@@ -135,8 +136,8 @@ Full e-commerce platform with **SQL Server** and **eSewa** integration.
 
 Python, Pandas and Matplotlib projects for exploratory data analysis.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FF4FA3?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-9D4EDD?style=flat-square&logo=pandas&logoColor=white"/>
 
 </td>
 
@@ -146,8 +147,8 @@ Python, Pandas and Matplotlib projects for exploratory data analysis.
 
 Business Intelligence and visualization using **Python** and **Power BI**.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-FF4FA3?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-C77DFF?style=flat-square&logo=powerbi&logoColor=white"/>
 
 </td>
 
@@ -161,7 +162,8 @@ Business Intelligence and visualization using **Python** and **Power BI**.
 
 <div align="center">
 
-<img width="500" src="https://streak-stats.demolab.com?user=aarchi-palikhel&theme=tokyonight&hide_border=true"/>
+<img width="500" src="https://streak-stats.demolab.com?user=aarchi-palikhel&theme=radical&hide_border=true&background=0D1117&ring=FF4FA3&fire=C77DFF&currStreakLabel=FF4FA3"/>
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarchi-palikhel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4FA3&text_color=C77DFF"/>
 
 </div>
 
@@ -178,19 +180,16 @@ Business Intelligence and visualization using **Python** and **Power BI**.
 
 ---
 
-# Connect With Me
+# Get In Touch
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/aarchi-palikhel">
-<img src="https://img.shields.io/badge/LinkedIn-C8A2C8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:palikhelaarchi@gmail.com">
-<img src="https://img.shields.io/badge/Email-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+```python
+def get_in_touch():
+    return {
+        "linkedin": "linkedin.com/in/aarchi-palikhel",
+        "email": "palikhelaarchi@gmail.com",
+        "status": "open to internships & collaboration"
+    }
+```
 
 ---
 
@@ -198,8 +197,8 @@ Business Intelligence and visualization using **Python** and **Power BI**.
 
 <i>"Stay curious, keep building, and never stop learning."</i>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aarchi-palikhel&label=Profile%20Views&style=for-the-badge&color=E8A0BF" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=aarchi-palikhel&label=Profile%20Views&style=for-the-badge&color=C77DFF" alt="Profile Views"/>
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=speech&color=0:FF4FA3,50:C77DFF,100:9D4EDD&height=100&section=footer" width="100%"/>
 
 </div>
